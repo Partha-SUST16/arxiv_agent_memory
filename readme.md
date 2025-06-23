@@ -19,7 +19,7 @@ The app uses a clean, tabbed interface for a smooth user experience. It leverage
 
 ```bash
 git clone https://github.com/Partha-SUST16/arxiv_agent_memory.git
-cd arxiv_agent_memory/arxiv_agent_memory
+cd arxiv_agent_memory
 ```
 
 ### 2. Install Dependencies
